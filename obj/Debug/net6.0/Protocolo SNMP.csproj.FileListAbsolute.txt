@@ -1,0 +1,18 @@
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.AssemblyInfo.cs
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\Protocolo SNMP.exe
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\Protocolo SNMP.deps.json
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\Protocolo SNMP.runtimeconfig.json
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\Protocolo SNMP.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\Protocolo SNMP.pdb
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\SharpSnmpLib.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\bin\Debug\net6.0\SnmpSharpNetCore.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.csproj.CopyComplete
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\refint\Protocolo SNMP.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.pdb
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\Protocolo SNMP.genruntimeconfig.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo SNMP\obj\Debug\net6.0\ref\Protocolo SNMP.dll

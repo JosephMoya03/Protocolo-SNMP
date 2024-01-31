@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lextm.SharpSnmpLib/12.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/SharpSnmpLib.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/SharpSnmpLib.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SnmpSharpNet-core/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SnmpSharpNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SnmpSharpNetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lextm.SharpSnmpLib/12.5.2": {
+      "sha512": "rWPyrB7klKxbuM/2wAQBgFk71XpERJt6uSRI27tCpMePidqbRD5whfFCXMeO0MlhUwqBmTZn7PoL6YnQLdZy1Q==",
+      "type": "package",
+      "path": "lextm.sharpsnmplib/12.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lextm.sharpsnmplib.12.5.2.nupkg.sha512",
+        "lextm.sharpsnmplib.nuspec",
+        "lib/net471/SharpSnmpLib.dll",
+        "lib/net471/SharpSnmpLib.pdb",
+        "lib/net471/SharpSnmpLib.xml",
+        "lib/net6.0/SharpSnmpLib.dll",
+        "lib/net6.0/SharpSnmpLib.pdb",
+        "lib/net6.0/SharpSnmpLib.xml",
+        "lib/netstandard2.0/SharpSnmpLib.dll",
+        "lib/netstandard2.0/SharpSnmpLib.pdb",
+        "lib/netstandard2.0/SharpSnmpLib.xml"
+      ]
+    },
+    "SnmpSharpNet-core/1.0.0": {
+      "sha512": "P7PRyKnd6MfmvMvoYQdOwBQm5JRIWL80229gpGA88x8Anx7ofH1jbzDTfp84RxuspjvSzB5H+IipBhXSHozL6w==",
+      "type": "package",
+      "path": "snmpsharpnet-core/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SnmpSharpNetCore.dll",
+        "snmpsharpnet-core.1.0.0.nupkg.sha512",
+        "snmpsharpnet-core.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Lextm.SharpSnmpLib >= 12.5.2",
+      "SnmpSharpNet-core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\josep\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\josep\\Desktop\\Universidad\\Practica\\Protocolo SNMP\\Protocolo SNMP.csproj",
+      "projectName": "Protocolo SNMP",
+      "projectPath": "C:\\Users\\josep\\Desktop\\Universidad\\Practica\\Protocolo SNMP\\Protocolo SNMP.csproj",
+      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\josep\\Desktop\\Universidad\\Practica\\Protocolo SNMP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Lextm.SharpSnmpLib": {
+            "target": "Package",
+            "version": "[12.5.2, )"
+          },
+          "SnmpSharpNet-core": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

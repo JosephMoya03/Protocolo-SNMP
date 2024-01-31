@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mg/dQC6/aqhoEp1AweTkWym63LSafVxMxi4eucLwVbBJSgwM1OtDF7amwNcQjjEm9KvpVWaKecIxngjeCfsa7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Desktop\\Universidad\\Practica\\Protocolo SNMP\\Protocolo SNMP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\lextm.sharpsnmplib\\12.5.2\\lextm.sharpsnmplib.12.5.2.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\snmpsharpnet-core\\1.0.0\\snmpsharpnet-core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
